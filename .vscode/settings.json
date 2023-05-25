@@ -1,0 +1,9 @@
+{
+    // prettier
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // sort imports
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
